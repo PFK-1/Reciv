@@ -13,7 +13,7 @@
         "type": "repo",
         "url": "https://github.com/SpacedOutChicken/Deciv-2.git",
         "ref": "master",
-        "pinnedCommit": ""
+        "pinnedCommit": "256d33a130ce1c18b513887f94d3df5dd3cbcb92"
       },
       "includeInRecivVanilla": true,
       "integrationRole": "base-ruleset",

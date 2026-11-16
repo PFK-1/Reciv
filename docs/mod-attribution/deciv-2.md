@@ -1,12 +1,10 @@
 # DeCiv 2
 
-- Source: https://github.com/SpacedOutChicken/Deciv-2
-- Watched ref: `master`
-- Manifest slug: `deciv-2`
-- README files found: `README.md`
-- Credits files found: `Credits.md`
+- Source: https://github.com/SpacedOutChicken/Deciv-2.git
+- Ref: master
+- Pinned commit: 256d33a130ce1c18b513887f94d3df5dd3cbcb92
+- License files: none found
+- README files: README.md
+- Credits files: Credits.md
 
-Attribution notes:
-
-- `README.md` describes DeCiv 2 as a fork of DeCiv Redux with new factions, technologies, buildings, wonders, improvements, resources, and balance edits.
-- `Credits.md` credits many community artists and third-party art/audio sources.
+This summary is for attribution and provenance. It is not an import gate.
